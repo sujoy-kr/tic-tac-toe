@@ -1,0 +1,13 @@
+/* for whole website */
+
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@400;600;700&display=swap');
+
+/* for X and O */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+
+body {
+    user-select: none;
+    font-family: 'Mali', cursive;
+}
