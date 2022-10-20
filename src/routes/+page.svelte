@@ -5,5 +5,5 @@
 </script>
 
 <Header />
-<GameStatus message="sup!" />
+<GameStatus message="Tick My Toe!" />
 <GameBoard />
